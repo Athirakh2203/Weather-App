@@ -1,0 +1,11 @@
+body {
+    font-family: "Rye, serif";
+    font-weight: 400;
+  font-style: "normal";
+              font-size:26;
+ 
+}
+div {
+  margin: 10px 0;
+  cursor: pointer;
+}
